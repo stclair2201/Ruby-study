@@ -1,2 +1,3 @@
 # Ruby-study
-从头开始学习RubyNote
+从零开始学习Ruby Note
+# 目录
